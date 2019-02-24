@@ -1,8 +1,0 @@
-#include <iostream>
-using namespace std;
-int main () 
-{
-cout << "My name is Timofei" endl;
-cout << "I live in Nizniy Novgorod" endl;
-return 0;
-}
